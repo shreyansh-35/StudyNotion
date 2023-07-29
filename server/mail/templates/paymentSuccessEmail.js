@@ -67,7 +67,7 @@ exports.paymentSuccessEmail = (name, amount, orderId, paymentId) => {
       
       <body>
           <div class="container">
-              <a href="https://study-notion-4z349hxoj-shreyansh-35.vercel.app/"><img class="logo" src="https://i.ibb.co/7Xyj3PC/logo.png"
+              <a href="https://study-notion-umber.vercel.app/"><img class="logo" src="https://i.ibb.co/7Xyj3PC/logo.png"
                       alt="StudyNotion Logo"></a>
               <div class="message">Course Payment Confirmation</div>
               <div class="body">
